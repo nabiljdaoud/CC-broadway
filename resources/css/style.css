@@ -27,13 +27,14 @@ p {
   background-image: url(../images/the-flatiron-building.png);
 }
 
-nav {
+nav a {
   font-size: 18px;
   color: white;
 }
 
 .header_nav ul {
   list-style-type: none;
+  line-height: 32px;
 }
 
 .banner {
